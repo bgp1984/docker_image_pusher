@@ -1,1 +1,1 @@
-ros:latest
+gazebo:latest
