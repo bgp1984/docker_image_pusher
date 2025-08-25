@@ -1,1 +1,1 @@
-gazebo:latest
+osrf/ros:noetic-desktop-full
