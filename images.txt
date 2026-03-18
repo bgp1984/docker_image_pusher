@@ -1,1 +1,1 @@
-osrf/ros:noetic-desktop-full
+longhornio/longhorn-manager:v1.11.1
