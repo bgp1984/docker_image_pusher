@@ -1,1 +1,1 @@
-registry:2
+rancher/mirrored-coredns:1.14.1
